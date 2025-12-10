@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul, ol {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    cursor: pointer;
+}
+
+body{
+    font-family: "Poppins";
+}
+
+.container {
+    max-width: 1267px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
